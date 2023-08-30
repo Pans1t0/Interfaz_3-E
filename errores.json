@@ -1,0 +1,86 @@
+{
+    "errores":
+        [
+    {
+        "codigo": "P2122",
+        "desc": "Sensor de posición del pedal del acelerador (TPS) - Voltaje bajo"
+    },
+    {
+        "codigo": "P2227",
+        "desc": "Sensor de temperatura del refrigerante del motor (ECT) 2 - Rango / Rendimiento"
+    },
+    {
+        "codigo": "P2328",
+        "desc": "Circuito de encendido primario - Voltaje alto"
+    },
+    {
+        "codigo": "P2425",
+        "desc": "Válvula de recirculación de gases de escape (EGR) - Rendimiento / bloqueado"
+    },
+    {
+        "codigo": "P2520",
+        "desc": "Sensor de presión del freno hidráulico (BHPS) - Rendimiento"
+    },
+    {
+        "codigo": "P2620",
+        "desc": "Sensor de oxígeno (O2) - Rango del circuito / Rendimiento (B1 S1)"
+    },
+    {
+        "codigo": "P2725",
+        "desc": "Solenoide de cambio de marchas 6 - Atascado en posición abierta"
+    },
+    {
+        "codigo": "P2820",
+        "desc": "Actuador de embrague de transferencia - Señal baja"
+    },
+    {
+        "codigo": "P2925",
+        "desc": "Actuador de embrague - Circuito abierto"
+    },
+    {
+        "codigo": "P3035",
+        "desc": "Sensor de velocidad de rueda delantero izquierdo (WSS) - Señal incoherente"
+    },
+    {
+        "codigo": "P3130",
+        "desc": "Sensor de detonación (KS) - Rendimiento incorrecto"
+    },
+    {
+        "codigo": "P3235",
+        "desc": "Sensor de velocidad de rueda trasero derecho (WSS) - Señal perdida"
+    },
+    {
+        "codigo": "P3330",
+        "desc": "Actuador de embrague de transferencia - Señal alta"
+    },
+    {
+        "codigo": "P3435",
+        "desc": "Sensor de ángulo del pedal del freno (BPA) - Señal incoherente"
+    },
+    {
+        "codigo": "P3530",
+        "desc": "Actuador del control de tracción - Señal baja"
+    },
+    {
+        "codigo": "P3635",
+        "desc": "Sensor de ángulo del pedal del acelerador (TPA) - Señal perdida"
+    },
+    {
+        "codigo": "P3730",
+        "desc": "Actuador del control de estabilidad - Señal alta"
+    },
+    {
+        "codigo": "P3835",
+        "desc": "Sensor de posición del cambio (PCT) - Señal incoherente"
+    },
+    {
+        "codigo": "P3930",
+        "desc": "Actuador del control de estabilidad - Circuito abierto"
+    },
+    {
+        "codigo": "P4045",
+        "desc": "Sensor de posición del pedal del freno (BPS) - Rango / Rendimiento"
+    }
+]
+
+}
